@@ -1,2 +1,2 @@
 # monty-hall
- A random picker for the monty hall problem.
+ A practical demostration for the monty hall problem.
